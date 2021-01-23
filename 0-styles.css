@@ -1,0 +1,14 @@
+:root {
+    --color-bittersweet: #FF6565;
+    --color-black: #071629;
+    --color-white: #FFF;
+}
+
+/* Large device*/
+@media only screen and (max-width: 992px) {}
+
+/* Medium device*/
+@media only screen and (max-width: 767px) {}
+
+/* Small device*/
+@media only screen and (max-width: 480px) {}
